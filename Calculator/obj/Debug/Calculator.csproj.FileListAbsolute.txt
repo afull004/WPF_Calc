@@ -1,0 +1,14 @@
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\MainWindow.baml
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Zander\Desktop\Programming\CS179\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
